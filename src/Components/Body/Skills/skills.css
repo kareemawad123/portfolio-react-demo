@@ -1,0 +1,12 @@
+.skills-body{
+    background-color: #696969	;
+    color: white;
+    padding: 4rem 10rem;
+}
+.foucs-section{
+    flex-direction: column;
+    justify-content: center;
+}
+.line{
+    size: 1rem;
+}

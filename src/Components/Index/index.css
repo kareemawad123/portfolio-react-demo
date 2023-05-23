@@ -1,0 +1,16 @@
+.header{
+    /* background-color: aqua; */
+    background-image: url('../../../public/images/headerbg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60vmin;
+}
+.text-white{
+    color: white;
+}
+.align-center{
+    height: 60vmin;
+    vertical-align: bottom;
+    flex-direction: column;
+}

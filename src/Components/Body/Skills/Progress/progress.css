@@ -1,0 +1,16 @@
+.progress-div{
+    background-color: white;
+    width: 25rem;
+    height: 2rem;
+    color: black;
+    /* font-weight: bold; */
+    border-radius: 0.2rem;
+}
+.bg-title{
+    /* border-radius: 0.2rem; */
+    background-color: rgb(128,128,128);
+}
+.bg-progress{
+    background-color: #DCDCDC	;
+    /* border-radius: 0.2rem; */
+}
