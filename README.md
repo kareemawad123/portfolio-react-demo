@@ -1,6 +1,7 @@
 # Getting Started with Create React App
+![Portfolio](https://github.com/kareemawad123/portfolio-react-demo/assets/106269253/3b079e61-7991-4617-8536-fa2623438965)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
